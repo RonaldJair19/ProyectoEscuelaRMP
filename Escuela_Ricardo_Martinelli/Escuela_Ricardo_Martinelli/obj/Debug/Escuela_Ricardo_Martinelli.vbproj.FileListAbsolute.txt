@@ -1,0 +1,134 @@
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe.config
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Login.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Resources.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.GenerateResource.Cache
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba2.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN1.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Form1.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN2.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Est.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Profesores.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Estudiantes.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Cursos.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbprojResolveAssemblyReference.cache
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Consultas.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Aulas.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Grupos.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN3.resources
+C:\Users\pp\Documents\Archivos UTP\Tercer Año\Base de Datos\Proyecto\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Prof.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe.config
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbprojAssemblyReference.cache
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Cursos.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Grupos.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Estudiantes.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Consultas.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Aulas.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Prof.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN3.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Profesores.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Est.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Form1.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN1.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN2.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Login.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Resources.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba2.resources
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.GenerateResource.cache
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.CoreCompileInputs.cache
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\samu9\Desktop\Interfaz\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbprojAssemblyReference.cache
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Cursos.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Grupos.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Estudiantes.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Consultas.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Aulas.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Prof.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN3.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Profesores.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Est.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Form1.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN1.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN2.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Login.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Resources.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba2.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.GenerateResource.cache
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.CoreCompileInputs.cache
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe.config
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz-Salvada\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbprojAssemblyReference.cache
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Cursos.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Grupos.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Estudiantes.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Consultas.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Aulas.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Prof.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN3.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Profesores.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Est.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Form1.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN1.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN2.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Login.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Resources.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba2.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.GenerateResource.cache
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe.config
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.pdb
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.xml
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Asignatura.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Comisiones.resources
+C:\Users\samu9\Documents\UTP\Tercer Año\Segundo Semestre\Base de Datos II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.ReciboMatricula.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe.config
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.exe
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.pdb
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\bin\Debug\Escuela_Ricardo_Martinelli.xml
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbprojAssemblyReference.cache
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Asignatura.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Comisiones.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Cursos.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Grupos.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Estudiantes.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Consultas.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Aulas.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Prof.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN3.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Profesores.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Info_Est.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Form1.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN1.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.InterfazN2.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Login.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Resources.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.Prueba2.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.ReciboMatricula.resources
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.GenerateResource.cache
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.vbproj.CoreCompileInputs.cache
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.exe
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.xml
+E:\Documentos\UTP\Cuarto Año\Ingeniería de Software II\Interfaz_Proyecto_Final\Escuela_Ricardo_Martinelli\Escuela_Ricardo_Martinelli\obj\Debug\Escuela_Ricardo_Martinelli.pdb
