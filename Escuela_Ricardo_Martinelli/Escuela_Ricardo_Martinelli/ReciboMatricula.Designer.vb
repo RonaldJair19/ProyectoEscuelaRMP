@@ -39,20 +39,20 @@ Partial Class ReciboMatricula
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.Label12 = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox3 = New System.Windows.Forms.GroupBox()
-        Me.InfoRecibo_GridView = New System.Windows.Forms.DataGridView()
-        Me.InfoDetalleRecibo_GridView = New System.Windows.Forms.DataGridView()
-        Me.InfoDetallePago_GridView = New System.Windows.Forms.DataGridView()
         Me.ButtonMostrarTodos = New System.Windows.Forms.Button()
+        Me.InfoRecibo_GridView = New System.Windows.Forms.DataGridView()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.InfoDetalleRecibo_GridView = New System.Windows.Forms.DataGridView()
+        Me.GroupBox3 = New System.Windows.Forms.GroupBox()
+        Me.InfoDetallePago_GridView = New System.Windows.Forms.DataGridView()
         Me.PanelInfo.SuspendLayout()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
-        Me.GroupBox2.SuspendLayout()
-        Me.GroupBox3.SuspendLayout()
         CType(Me.InfoRecibo_GridView, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox2.SuspendLayout()
         CType(Me.InfoDetalleRecibo_GridView, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox3.SuspendLayout()
         CType(Me.InfoDetallePago_GridView, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -101,28 +101,20 @@ Partial Class ReciboMatricula
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Recibo de Matrícula"
         '
-        'GroupBox2
+        'ButtonMostrarTodos
         '
-        Me.GroupBox2.Controls.Add(Me.Button1)
-        Me.GroupBox2.Controls.Add(Me.InfoDetalleRecibo_GridView)
-        Me.GroupBox2.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox2.Location = New System.Drawing.Point(8, 326)
-        Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(1094, 233)
-        Me.GroupBox2.TabIndex = 19
-        Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Detalle del Recibo de Matrícula"
-        '
-        'GroupBox3
-        '
-        Me.GroupBox3.Controls.Add(Me.InfoDetallePago_GridView)
-        Me.GroupBox3.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox3.Location = New System.Drawing.Point(158, 565)
-        Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(778, 234)
-        Me.GroupBox3.TabIndex = 20
-        Me.GroupBox3.TabStop = False
-        Me.GroupBox3.Text = "Detalle de pago de Matrícula"
+        Me.ButtonMostrarTodos.BackColor = System.Drawing.Color.FromArgb(CType(CType(13, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(142, Byte), Integer))
+        Me.ButtonMostrarTodos.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.ButtonMostrarTodos.Font = New System.Drawing.Font("Century Gothic", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ButtonMostrarTodos.ForeColor = System.Drawing.Color.White
+        Me.ButtonMostrarTodos.Image = CType(resources.GetObject("ButtonMostrarTodos.Image"), System.Drawing.Image)
+        Me.ButtonMostrarTodos.Location = New System.Drawing.Point(799, 88)
+        Me.ButtonMostrarTodos.Name = "ButtonMostrarTodos"
+        Me.ButtonMostrarTodos.Size = New System.Drawing.Size(262, 75)
+        Me.ButtonMostrarTodos.TabIndex = 9
+        Me.ButtonMostrarTodos.Text = "Mostrar Detalle de Factura"
+        Me.ButtonMostrarTodos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.ButtonMostrarTodos.UseVisualStyleBackColor = False
         '
         'InfoRecibo_GridView
         '
@@ -174,6 +166,33 @@ Partial Class ReciboMatricula
         Me.InfoRecibo_GridView.Size = New System.Drawing.Size(763, 218)
         Me.InfoRecibo_GridView.TabIndex = 8
         '
+        'GroupBox2
+        '
+        Me.GroupBox2.Controls.Add(Me.Button1)
+        Me.GroupBox2.Controls.Add(Me.InfoDetalleRecibo_GridView)
+        Me.GroupBox2.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.GroupBox2.Location = New System.Drawing.Point(8, 326)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.Size = New System.Drawing.Size(1094, 233)
+        Me.GroupBox2.TabIndex = 19
+        Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "Detalle del Recibo de Matrícula"
+        '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(13, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(142, Byte), Integer))
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Button1.Font = New System.Drawing.Font("Century Gothic", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.ForeColor = System.Drawing.Color.White
+        Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
+        Me.Button1.Location = New System.Drawing.Point(799, 85)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(262, 71)
+        Me.Button1.TabIndex = 10
+        Me.Button1.Text = "Mostrar Detalle del Pago de Factura"
+        Me.Button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.Button1.UseVisualStyleBackColor = False
+        '
         'InfoDetalleRecibo_GridView
         '
         Me.InfoDetalleRecibo_GridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
@@ -223,6 +242,17 @@ Partial Class ReciboMatricula
         Me.InfoDetalleRecibo_GridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.InfoDetalleRecibo_GridView.Size = New System.Drawing.Size(763, 199)
         Me.InfoDetalleRecibo_GridView.TabIndex = 9
+        '
+        'GroupBox3
+        '
+        Me.GroupBox3.Controls.Add(Me.InfoDetallePago_GridView)
+        Me.GroupBox3.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.GroupBox3.Location = New System.Drawing.Point(158, 565)
+        Me.GroupBox3.Name = "GroupBox3"
+        Me.GroupBox3.Size = New System.Drawing.Size(778, 234)
+        Me.GroupBox3.TabIndex = 20
+        Me.GroupBox3.TabStop = False
+        Me.GroupBox3.Text = "Detalle de pago de Matrícula"
         '
         'InfoDetallePago_GridView
         '
@@ -274,36 +304,6 @@ Partial Class ReciboMatricula
         Me.InfoDetallePago_GridView.Size = New System.Drawing.Size(763, 199)
         Me.InfoDetallePago_GridView.TabIndex = 10
         '
-        'ButtonMostrarTodos
-        '
-        Me.ButtonMostrarTodos.BackColor = System.Drawing.Color.FromArgb(CType(CType(13, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(142, Byte), Integer))
-        Me.ButtonMostrarTodos.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.ButtonMostrarTodos.Font = New System.Drawing.Font("Century Gothic", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonMostrarTodos.ForeColor = System.Drawing.Color.White
-        Me.ButtonMostrarTodos.Image = CType(resources.GetObject("ButtonMostrarTodos.Image"), System.Drawing.Image)
-        Me.ButtonMostrarTodos.Location = New System.Drawing.Point(799, 88)
-        Me.ButtonMostrarTodos.Name = "ButtonMostrarTodos"
-        Me.ButtonMostrarTodos.Size = New System.Drawing.Size(262, 75)
-        Me.ButtonMostrarTodos.TabIndex = 9
-        Me.ButtonMostrarTodos.Text = "Mostrar Detalle de Factura"
-        Me.ButtonMostrarTodos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.ButtonMostrarTodos.UseVisualStyleBackColor = False
-        '
-        'Button1
-        '
-        Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(13, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(142, Byte), Integer))
-        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button1.Font = New System.Drawing.Font("Century Gothic", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
-        Me.Button1.Location = New System.Drawing.Point(799, 85)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(262, 71)
-        Me.Button1.TabIndex = 10
-        Me.Button1.Text = "Mostrar Detalle del Pago de Factura"
-        Me.Button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.Button1.UseVisualStyleBackColor = False
-        '
         'ReciboMatricula
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -319,10 +319,10 @@ Partial Class ReciboMatricula
         Me.PanelInfo.PerformLayout()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox1.ResumeLayout(False)
-        Me.GroupBox2.ResumeLayout(False)
-        Me.GroupBox3.ResumeLayout(False)
         CType(Me.InfoRecibo_GridView, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox2.ResumeLayout(False)
         CType(Me.InfoDetalleRecibo_GridView, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox3.ResumeLayout(False)
         CType(Me.InfoDetallePago_GridView, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 

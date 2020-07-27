@@ -280,4 +280,8 @@ Public Class Estudiantes
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         TextBoxAgregarEstudiante.Clear()
     End Sub
+
+    Private Sub ButtonConsultar_Click(sender As Object, e As EventArgs) Handles ButtonConsultar.Click
+        ReciboMatricula.Show()
+    End Sub
 End Class
